@@ -1,0 +1,97 @@
+.footer{
+    display: flex;
+    background-color: gray;
+    justify-content: space-between;
+}
+.descrip{
+   text-align: center;
+ 
+  background-color: rgb(255, 255, 255);
+}
+.about{
+    display: flex;
+    margin-left: 6%;
+    margin-right: 20%;
+
+}
+.care{
+    display: flex;
+    
+}
+.tg{
+    margin-left: 6%;
+    margin-right: 6%;
+    ju
+}
+.about{
+display:flex ;
+}
+.image{
+    justify-content:space-between;
+    padding: 40px;
+    display: flex;
+}
+.contact{
+    display: flex;
+    margin-left: 15%;
+}
+.blog{
+    display: flex;
+    margin-left: 10%;
+    padding: 10px ;
+
+}
+.blog1{
+    display:inline-flex;
+    margin-left: 13%;
+    margin-right:6%;
+}
+.feature{
+ 
+    display: flex;
+    justify-content: space-between;
+    
+}
+.why{
+    margin-left: 9%;
+    margin-right: 10px;
+    display: flex;
+}
+.popular{
+    display: flex;
+    justify-content: space-between;
+}
+.popular1{
+    display: flex;
+    justify-content: space-between;
+}
+.cato{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 9%;
+    margin-right: 10px;
+   
+}
+.ourshop{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 9%;
+    margin-right: 10px;
+  
+}
+.whoarewe{
+    display: flex;
+    margin-left: 8%;
+    margin-right: 3%;
+}
+.awards{
+    margin-left: 8%;
+    margin-right: 3%;
+    display: flex;
+    justify-content: space-between;
+}
+.cup{
+    display: flex;
+    margin-left: 8%;
+    margin-right: 3%;
+}
